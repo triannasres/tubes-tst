@@ -1,5 +1,0 @@
-Dockerfile
-*.md
-LICENSE
-.dockerignore
-.devcontainer
